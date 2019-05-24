@@ -1,6 +1,6 @@
 # IMGC
 IMGC has moved (to amazon). Please see: <br>
-<a href="http://ec2-18-218-220-205.us-east-2.compute.amazonaws.com:3838/Rimgc/" target="_blank">IMGC</a>
+<a href="http://ec2-18-218-220-205.us-east-2.compute.amazonaws.com:3838/Rimgc/" target="blank">IMGC</a>
 <br> for the (new) Rshiny interface to it.
 
 <br>
