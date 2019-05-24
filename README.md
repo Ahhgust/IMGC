@@ -6,7 +6,8 @@ IMGC has moved (to amazon). Please see: <br>
 <br>
 Murray Cox's documentation is a wee bit better than mine!
 Please see the following documentation <br>
-on Murray's [github](https://github.com/mpcox/IMgc) <br>
+on Murray's
+[github](https://github.com/mpcox/IMgc) <br>
 
 
 
