@@ -1,6 +1,6 @@
 # IMGC
 IMGC online has moved (to amazon). Please see: <br>
-<a href="http://68.206.91.73:3838/Rimgc/" target="_blank">IMGC</a>
+<a href="http://173.174.210.127:3838/Rimgc/" target="_blank">IMGC</a>
 <br> for the (new) Rshiny interface to it.
 
 <br>
